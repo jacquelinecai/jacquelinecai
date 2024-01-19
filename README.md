@@ -1,4 +1,4 @@
-Hi, my name is Jacqueline Cai, a current sophomore studying Computer Science at the Cornell University College of Engineering. I recently completed my Microsoft Explore Internship this past summer where I was primarily exposed to backend web development. I'm interested in specializing in the AI field in the future.
+Hi, my name is Jacqueline Cai, a current sophomore studying Computer Science at the Cornell University College of Engineering. I recently completed my Microsoft Explore Internship this past summer where I was primarily exposed to backend web development using REST APIs, Spring Boot, and Java. I'm interested in specializing in the AI field in the future.
 
 <!--
 **jacquelinecai40/jacquelinecai40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
